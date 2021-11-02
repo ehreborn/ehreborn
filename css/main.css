@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v152_1077 {
+  width: 100%;
+  height: 700px;
+  background: rgba(255,255,255,0);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v152_1101 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 26px;
+  left: 0px;
+  font-family: Bad Script;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v152_1093 {
+  width: 318px;
+  height: 314px;
+  background: url("../images/v152_1093.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 42px;
+  overflow: hidden;
+}
+.v152_1094 {
+  width: 321px;
+  height: 321px;
+  background: url("../images/v152_1094.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 1144px;
+  overflow: hidden;
+}
+.v152_1095 {
+  width: 294px;
+  height: 294px;
+  background: url("../images/v152_1095.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 406px;
+  left: 360px;
+  overflow: hidden;
+}
+.v152_1097 {
+  width: 316px;
+  height: 300px;
+  background: url("../images/v152_1097.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 400px;
+  left: 787px;
+  overflow: hidden;
+}
+.v152_1098 {
+  width: 377px;
+  height: 390px;
+  background: url("../images/v152_1098.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 528px;
+  overflow: hidden;
+}
+.v152_1099 {
+  width: 65px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 157px;
+  left: 829px;
+  font-family: Montserrat;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
